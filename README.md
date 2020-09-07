@@ -4,11 +4,14 @@
 1. [Introduction](#why-installing-a-custom-rom)
 2. [Installation](#installing-lineage-os)
 3. [Application alternatives](#applications-and-alternatives)
- * [Google store -> Aurora store](#aurora-store)
- * [Youtube advanced-> New pipe](#new-pipe)
- * [Shelter](#shelter)
- * [Facebook -> Frost for Facebook](#frost-for-facebook)
- * [Twitter -> Tinfoil for Twitter](#tinfoil-for-twitter)
+   * [Google store -> Aurora store](#aurora-store)
+   * [Youtube advanced-> New pipe](#new-pipe)
+   * [Sandbox: Shelter](#shelter)
+   * [Facebook -> Frost for Facebook](#frost-for-facebook)
+   * [Twitter -> Tinfoil for Twitter](#tinfoil-for-twitter)
+   * [Gmail -> Protonmail](#protonmail)
+   * [Password manager: Bitwarden](#bitwarden)
+   * [Reddit -> Red Reader](#red-reader-for-reddit)
 
 
 # Why would you install a custom ROM? 
