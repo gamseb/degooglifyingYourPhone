@@ -4,11 +4,11 @@
 1. [Introduction](https://github.com/gamseb/degooglifyingYourPhone/#why-installing-a-custom-rom)
 2. [Installation](https://github.com/gamseb/degooglifyingYourPhone/#installing-lineage-os)
 3. [Application alternatives](https://github.com/gamseb/degooglifyingYourPhone/#applications-and-alternatives)
-  * [Google store -> Aurora store](https://github.com/gamseb/degooglifyingYourPhone/#aurora-store)
-  * [Youtube advanced-> New pipe](https://github.com/gamseb/degooglifyingYourPhone/#new-pipe)
-  * [Shelter](https://github.com/gamseb/degooglifyingYourPhone/#shelter)
-  * [Facebook -> Frost for Facebook](https://github.com/gamseb/degooglifyingYourPhone/#frost-for-facebook)
-  * [Twitter -> Tinfoil for Twitter](https://github.com/gamseb/degooglifyingYourPhone/#tinfoil-for-twitter)
+    * [Google store -> Aurora store](https://github.com/gamseb/degooglifyingYourPhone/#aurora-store)
+    * [Youtube advanced-> New pipe](https://github.com/gamseb/degooglifyingYourPhone/#new-pipe)
+    * [Shelter](https://github.com/gamseb/degooglifyingYourPhone/#shelter)
+    * [Facebook -> Frost for Facebook](https://github.com/gamseb/degooglifyingYourPhone/#frost-for-facebook)
+    * [Twitter -> Tinfoil for Twitter](https://github.com/gamseb/degooglifyingYourPhone/#tinfoil-for-twitter)
 
 
 # Why would you install a custom ROM? 
