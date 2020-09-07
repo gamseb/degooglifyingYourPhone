@@ -1,7 +1,7 @@
 # How to  get rid of google on your phone 
 
 # Index
-1. [Introduction](https://github.com/gamseb/degooglifyingYourPhone/#why-installing-a-custom-rom)
+1. [Introduction](#why-installing-a-custom-rom)
 2. [Installation](https://github.com/gamseb/degooglifyingYourPhone/#installing-lineage-os)
 3. [Application alternatives](https://github.com/gamseb/degooglifyingYourPhone/#applications-and-alternatives)
     * [Google store -> Aurora store](https://github.com/gamseb/degooglifyingYourPhone/#aurora-store)
