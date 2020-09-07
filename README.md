@@ -1,12 +1,17 @@
 # How to  get rid of google on your phone 
 
-1. Install LineageOS without openGapps
-2. Install F-Droid
-3. Customise the system and get all the apps
+# Index
+1. [Introduction](https://github.com/gamseb/degooglifyingYourPhone/#why-installing-a-custom-rom)
+2. [Installation](https://github.com/gamseb/degooglifyingYourPhone/#installing-lineage-os)
+3. [Application alternatives](https://github.com/gamseb/degooglifyingYourPhone/#applications-and-alternatives)
+  * [Google store -> Aurora store](https://github.com/gamseb/degooglifyingYourPhone/#aurora-store)
+  * [Youtube advanced-> New pipe](https://github.com/gamseb/degooglifyingYourPhone/#new-pipe)
+  * [Shelter](https://github.com/gamseb/degooglifyingYourPhone/#shelter)
+  * [Facebook -> Frost for Facebook](https://github.com/gamseb/degooglifyingYourPhone/#frost-for-facebook)
+  * [Twitter -> Tinfoil for Twitter](https://github.com/gamseb/degooglifyingYourPhone/#tinfoil-for-twitter)
 
 
-
-# Why installing a custom ROM? 
+# Why would you install a custom ROM? 
 
 There are two reasons: privacy and security. As we all know, big companies like google keep syphoning our personal data to sell them to third parties. Also they aresusceptible to cyber attacks, social engineering attacks and police warrants. Bottom line is, that they are not to be trusted with our  private lives. 
 The secon reason is, that many devices have stopped getting updates even though the hardware is still good and usable. When using an older device with outdated security patches we open ourselves to many problems and become very easy targets for ill intentioned individuals. With a custom ROM we can limit or even mitigate most of these problems. 
